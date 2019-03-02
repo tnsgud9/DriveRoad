@@ -4,26 +4,42 @@ using UnityEngine;
 
 public class Pointer : MonoBehaviour
 {
-    public GameObject MousePoint;
-    private int _mask = 10;
-    
-    
+    public GameObject playerPoint;  //touch pointer
+    public GameObject touchPoint; //Player pointer
     
     void Start()
     {
         
     }
 
+    /*
+        TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동
+        ChildPoint는 TouchPoint의 방향을 따라감 ray위치로 가진 않음   
+    */
+    
     void Update()
     {
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
         if (Physics.Raycast(ray, out hit, 100f , 1<<11))
         {
+            touchPoint.transform.position = hit.point;
+
+            if (Input.GetMouseButtonDown(0))
+            {
+                touchPoint.transform.position = hit.point;
+                playerPoint.transform.parent = touchPoint.transform;
+            }
             if (Input.GetMouseButton(0))
             {
-                MousePoint.transform.position = hit.point;
+                
             }
+
+            if (Input.GetMouseButtonUp(0))
+            {
+                playerPoint.transform.parent = null;
+            }
+
         }
     }
 }
