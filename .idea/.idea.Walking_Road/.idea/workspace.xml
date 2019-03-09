@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9ec422-1249-499e-87be-c74c85ab5f54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/#Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/AssetImportState" beforeDir="false" afterPath="$PROJECT_DIR$/Library/AssetImportState" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
@@ -18,15 +21,20 @@
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e88bf4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e88bf4-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4e/4ede139ae92991547823ae12c53fd444" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4e/4ede139ae92991547823ae12c53fd444" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a7/a7ec9e7ad8b847b7ae4510af83c5d868.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/ff/fff9413fd1acb46a5b723edbd3c3426d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ff/fff9413fd1acb46a5b723edbd3c3426d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ff/fff9413fd1acb46a5b723edbd3c3426d.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ff/fff9413fd1acb46a5b723edbd3c3426d.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -41,18 +49,34 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-106">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="521">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
               <folding>
-                <marker date="1551500831200" expanded="false" signature="6:78" ph="..." />
-                <marker date="1551500831200" expanded="true" signature="116:1054" ph="{...}" />
-                <marker date="1551500831200" expanded="true" signature="243:264" ph="{...}" />
-                <marker date="1551500831200" expanded="true" signature="270:378" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
-                <marker date="1551500831200" expanded="true" signature="401:1052" ph="{...}" />
-                <marker date="1551500831200" expanded="true" signature="557:1046" ph="{...}" />
-                <marker date="1551500831200" expanded="true" signature="668:824" ph="{...}" />
-                <marker date="1551500831200" expanded="true" signature="865:910" ph="{...}" />
-                <marker date="1551500831200" expanded="true" signature="954:1035" ph="{...}" />
+                <marker date="1552137465839" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552137465839" expanded="true" signature="116:1238" ph="{...}" />
+                <marker date="1552137465839" expanded="true" signature="304:325" ph="{...}" />
+                <marker date="1552137465839" expanded="true" signature="331:439" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
+                <marker date="1552137465839" expanded="true" signature="462:1236" ph="{...}" />
+                <marker date="1552137465839" expanded="true" signature="618:1230" ph="{...}" />
+                <marker date="1552137465839" expanded="true" signature="731:887" ph="{...}" />
+                <marker date="1552137465839" expanded="true" signature="928:1078" ph="{...}" />
+                <marker date="1552137465839" expanded="true" signature="1122:1203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="113" selection-start-line="21" selection-start-column="113" selection-end-line="21" selection-end-column="113" />
+              <folding>
+                <marker date="1552137390744" expanded="false" signature="6:100" ph="..." />
+                <marker date="1552137390744" expanded="true" signature="197:724" ph="{...}" />
+                <marker date="1552137390744" expanded="true" signature="300:321" ph="{...}" />
+                <marker date="1552137390744" expanded="true" signature="380:722" ph="{...}" />
+                <marker date="1552137390744" expanded="true" signature="628:714" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,6 +88,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/1e/702e142b/LayerMask.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" root0="FORCE_HIGHLIGHTING" />
@@ -71,6 +96,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" />
       </list>
     </option>
@@ -81,8 +107,8 @@
     </ignored-facets>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="767" />
-    <option name="y" value="128" />
+    <option name="x" value="403" />
+    <option name="y" value="214" />
     <option name="width" value="974" />
     <option name="height" value="773" />
   </component>
@@ -91,10 +117,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -117,7 +143,7 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,11 +198,15 @@
       <workItem from="1551405215755" duration="7527000" />
       <workItem from="1551422845061" duration="1060000" />
       <workItem from="1551500040537" duration="1389000" />
+      <workItem from="1551508805798" duration="1235000" />
+      <workItem from="1551586154408" duration="573000" />
+      <workItem from="1551673189958" duration="6646000" />
+      <workItem from="1552136659643" duration="1022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21395000" />
+    <option name="totallyTimeSpent" value="30871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,7 +218,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="767" y="128" width="974" height="773" extended-state="0" />
+    <frame x="403" y="214" width="974" height="773" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35886213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -260,20 +290,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="113" selection-start-line="21" selection-start-column="113" selection-end-line="21" selection-end-column="113" />
+          <folding>
+            <marker date="1552137390744" expanded="false" signature="6:100" ph="..." />
+            <marker date="1552137390744" expanded="true" signature="197:724" ph="{...}" />
+            <marker date="1552137390744" expanded="true" signature="300:321" ph="{...}" />
+            <marker date="1552137390744" expanded="true" signature="380:722" ph="{...}" />
+            <marker date="1552137390744" expanded="true" signature="628:714" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="521">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
           <folding>
-            <marker date="1551500831200" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551500831200" expanded="true" signature="116:1054" ph="{...}" />
-            <marker date="1551500831200" expanded="true" signature="243:264" ph="{...}" />
-            <marker date="1551500831200" expanded="true" signature="270:378" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
-            <marker date="1551500831200" expanded="true" signature="401:1052" ph="{...}" />
-            <marker date="1551500831200" expanded="true" signature="557:1046" ph="{...}" />
-            <marker date="1551500831200" expanded="true" signature="668:824" ph="{...}" />
-            <marker date="1551500831200" expanded="true" signature="865:910" ph="{...}" />
-            <marker date="1551500831200" expanded="true" signature="954:1035" ph="{...}" />
+            <marker date="1552137465839" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552137465839" expanded="true" signature="116:1238" ph="{...}" />
+            <marker date="1552137465839" expanded="true" signature="304:325" ph="{...}" />
+            <marker date="1552137465839" expanded="true" signature="331:439" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
+            <marker date="1552137465839" expanded="true" signature="462:1236" ph="{...}" />
+            <marker date="1552137465839" expanded="true" signature="618:1230" ph="{...}" />
+            <marker date="1552137465839" expanded="true" signature="731:887" ph="{...}" />
+            <marker date="1552137465839" expanded="true" signature="928:1078" ph="{...}" />
+            <marker date="1552137465839" expanded="true" signature="1122:1203" ph="{...}" />
           </folding>
         </state>
       </provider>

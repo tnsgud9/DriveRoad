@@ -6,6 +6,8 @@ public class Pointer : MonoBehaviour
 {
     public GameObject playerPoint;  //touch pointer
     public GameObject touchPoint; //Player pointer
+    public static ArrayList WayPoint = new ArrayList();
+    
     
     void Start()
     {
@@ -23,7 +25,7 @@ public class Pointer : MonoBehaviour
         RaycastHit hit;
         if (Physics.Raycast(ray, out hit, 100f , 1<<11))
         {
-            touchPoint.transform.position = hit.point;
+            //touchPoint.transform.position = hit.point;
 
             if (Input.GetMouseButtonDown(0))
             {
@@ -32,13 +34,19 @@ public class Pointer : MonoBehaviour
             }
             if (Input.GetMouseButton(0))
             {
-                
+                touchPoint.transform.position = hit.point;
+                WayPoint.Add(playerPoint.transform.position);
+
             }
 
             if (Input.GetMouseButtonUp(0))
             {
                 playerPoint.transform.parent = null;
             }
+            
+
+
+
 
         }
     }
