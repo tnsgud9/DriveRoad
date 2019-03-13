@@ -34,8 +34,11 @@ public class Pointer : MonoBehaviour
             }
             if (Input.GetMouseButton(0))
             {
-                touchPoint.transform.position = hit.point;
-                WayPoint.Add(playerPoint.transform.position);
+                if (hit.transform.name == "background" )
+                {
+                    touchPoint.transform.position = hit.point;
+                    WayPoint.Add(playerPoint.transform.position);
+                }
 
             }
 
