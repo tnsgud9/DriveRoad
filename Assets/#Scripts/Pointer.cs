@@ -27,6 +27,14 @@ public class Pointer : MonoBehaviour
         {
             //touchPoint.transform.position = hit.point;
 
+            Vector3 pos = Camera.main.WorldToViewportPoint(playerPoint.transform.position);
+            if (pos.x < 0f) {pos.x = 0f;
+                Debug.Log("밖으로 나감");
+            }
+            if (pos.x > 1f) pos.x = 1f;
+            if (pos.y < 0f) pos.y = 0f;
+            if (pos.y > 1f) pos.y = 1f;
+
             if (Input.GetMouseButtonDown(0))
             {
                 touchPoint.transform.position = hit.point;

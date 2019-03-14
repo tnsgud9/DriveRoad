@@ -18,6 +18,7 @@ public class PlayerFollow : MonoBehaviour
     void Update()
     {
         
+        
         transform.position.Normalize();
         transform.position = Vector3.MoveTowards(transform.position, (Vector3) Pointer.WayPoint[_arraycount], 0.1f);
 
