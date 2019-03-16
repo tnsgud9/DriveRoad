@@ -3,16 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="af9ec422-1249-499e-87be-c74c85ab5f54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/#Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b12ac0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b12ac0-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e88bf4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e88bf4-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/05/052f4aafb4253f24db9b0ec2bb242eb4" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/05/052f4aafb4253f24db9b0ec2bb242eb4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/19/197a19a42ddecaa408e8b4854dda5e7b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/19/197a19a42ddecaa408e8b4854dda5e7b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4e/4ede139ae92991547823ae12c53fd444" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4e/4ede139ae92991547823ae12c53fd444" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,15 +35,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
-                <marker date="1552579292078" expanded="false" signature="6:154" ph="..." />
-                <marker date="1552579292078" expanded="true" signature="197:733" ph="{...}" />
-                <marker date="1552579292078" expanded="true" signature="300:321" ph="{...}" />
-                <marker date="1552579292078" expanded="true" signature="380:731" ph="{...}" />
-                <marker date="1552579292078" expanded="true" signature="637:723" ph="{...}" />
+                <marker date="1552698846418" expanded="false" signature="6:154" ph="..." />
+                <marker date="1552698846418" expanded="true" signature="197:700" ph="{...}" />
+                <marker date="1552698846418" expanded="true" signature="300:321" ph="{...}" />
+                <marker date="1552698846418" expanded="true" signature="380:698" ph="{...}" />
+                <marker date="1552698846418" expanded="true" signature="632:691" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/04/8ba6944a/Transform.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -41,20 +60,33 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="320">
+              <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
               <folding>
-                <marker date="1552580431791" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552580431791" expanded="true" signature="116:1644" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="304:325" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="331:439" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
-                <marker date="1552580431791" expanded="true" signature="462:1642" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="618:1636" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="807:870" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="1036:1192" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="1233:1484" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="1304:1469" ph="{...}" />
-                <marker date="1552580431791" expanded="true" signature="1528:1609" ph="{...}" />
+                <marker date="1552709778258" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552709778258" expanded="true" signature="116:1748" ph="{...}" />
+                <marker date="1552709778258" expanded="true" signature="327:435" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
+                <marker date="1552709778258" expanded="true" signature="454:1746" ph="{...}" />
+                <marker date="1552709778258" expanded="true" signature="645:1345" ph="{...}" />
+                <marker date="1552709778258" expanded="true" signature="760:916" ph="{...}" />
+                <marker date="1552709778258" expanded="true" signature="958:1209" ph="{...}" />
+                <marker date="1552709778258" expanded="true" signature="1028:1194" ph="{...}" />
+                <marker date="1552709778258" expanded="true" signature="1253:1334" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <marker date="1552709400291" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552709400291" expanded="true" signature="123:312" ph="{...}" />
+                <marker date="1552709400291" expanded="true" signature="195:216" ph="{...}" />
+                <marker date="1552709400291" expanded="true" signature="274:304" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,6 +98,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/04/8ba6944a/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0E086B1-48D0-4D9D-9DEB-694E24FF0FCE/c5/ca3052cb/RaycastHit.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/ab/792b7654/Camera.cs" root0="SKIP_HIGHLIGHTING" />
@@ -77,6 +110,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" />
         <option value="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" />
       </list>
     </option>
@@ -87,16 +121,21 @@
     </ignored-facets>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="422" />
-    <option name="y" value="115" />
+    <option name="x" value="226" />
+    <option name="y" value="106" />
     <option name="width" value="974" />
-    <option name="height" value="737" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -118,11 +157,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -187,11 +221,14 @@
       <workItem from="1552464189808" duration="1067000" />
       <workItem from="1552493684706" duration="617000" />
       <workItem from="1552578360316" duration="1616000" />
+      <workItem from="1552663977671" duration="4181000" />
+      <workItem from="1552668389279" duration="873000" />
+      <workItem from="1552669866446" duration="2793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34939000" />
+    <option name="totallyTimeSpent" value="42786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -203,10 +240,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="422" y="115" width="974" height="737" extended-state="0" />
+    <frame x="226" y="106" width="974" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35886213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22647703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -263,37 +300,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <marker date="1550548176003" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550548176003" expanded="true" signature="123:297" ph="{...}" />
-            <marker date="1550548176003" expanded="true" signature="195:216" ph="{...}" />
-            <marker date="1550548176003" expanded="true" signature="274:295" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0E086B1-48D0-4D9D-9DEB-694E24FF0FCE/c5/ca3052cb/RaycastHit.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <marker date="1552579292078" expanded="false" signature="6:154" ph="..." />
-            <marker date="1552579292078" expanded="true" signature="197:733" ph="{...}" />
-            <marker date="1552579292078" expanded="true" signature="300:321" ph="{...}" />
-            <marker date="1552579292078" expanded="true" signature="380:731" ph="{...}" />
-            <marker date="1552579292078" expanded="true" signature="637:723" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -304,22 +314,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/04/8ba6944a/Transform.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
-            <marker date="1552580431791" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552580431791" expanded="true" signature="116:1644" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="304:325" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="331:439" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
-            <marker date="1552580431791" expanded="true" signature="462:1642" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="618:1636" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="807:870" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="1036:1192" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="1233:1484" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="1304:1469" ph="{...}" />
-            <marker date="1552580431791" expanded="true" signature="1528:1609" ph="{...}" />
+            <marker date="1552709400291" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552709400291" expanded="true" signature="123:312" ph="{...}" />
+            <marker date="1552709400291" expanded="true" signature="195:216" ph="{...}" />
+            <marker date="1552709400291" expanded="true" signature="274:304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1552698846418" expanded="false" signature="6:154" ph="..." />
+            <marker date="1552698846418" expanded="true" signature="197:700" ph="{...}" />
+            <marker date="1552698846418" expanded="true" signature="300:321" ph="{...}" />
+            <marker date="1552698846418" expanded="true" signature="380:698" ph="{...}" />
+            <marker date="1552698846418" expanded="true" signature="632:691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
+          <folding>
+            <marker date="1552709778258" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552709778258" expanded="true" signature="116:1748" ph="{...}" />
+            <marker date="1552709778258" expanded="true" signature="327:435" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
+            <marker date="1552709778258" expanded="true" signature="454:1746" ph="{...}" />
+            <marker date="1552709778258" expanded="true" signature="645:1345" ph="{...}" />
+            <marker date="1552709778258" expanded="true" signature="760:916" ph="{...}" />
+            <marker date="1552709778258" expanded="true" signature="958:1209" ph="{...}" />
+            <marker date="1552709778258" expanded="true" signature="1028:1194" ph="{...}" />
+            <marker date="1552709778258" expanded="true" signature="1253:1334" ph="{...}" />
           </folding>
         </state>
       </provider>

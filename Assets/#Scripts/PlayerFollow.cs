@@ -17,19 +17,14 @@ public class PlayerFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-        
-        transform.position.Normalize();
-        transform.position = Vector3.MoveTowards(transform.position, (Vector3) Pointer.WayPoint[_arraycount], 0.1f);
 
-        if (transform.position == (Vector3) Pointer.WayPoint[_arraycount])
-        {
-            
-            _arraycount++;
-            
-            
-        }
+            transform.position.Normalize();
+            transform.position = Vector3.MoveTowards(transform.position, (Vector3) Pointer.WayPoint[_arraycount], 0.1f);
 
+            if (transform.position == (Vector3) Pointer.WayPoint[_arraycount])
+            {
+                _arraycount++;
+            }
 
     }
 }
