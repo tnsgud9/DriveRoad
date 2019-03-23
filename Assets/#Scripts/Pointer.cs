@@ -7,7 +7,7 @@ public class Pointer : MonoBehaviour
     public GameObject playerPoint; //touch pointer
     public GameObject touchPoint; //Player pointer
     public static ArrayList WayPoint = new ArrayList();
-
+    public static int PosCount = 0;
    // public static int CountPoint=0;
 
     
@@ -16,7 +16,7 @@ public class Pointer : MonoBehaviour
         TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동
         ChildPoint는 TouchPoint의 방향을 따라감 ray위치로 가진 않음   
     */
-
+    
     void Update()
     {
         
@@ -34,6 +34,7 @@ public class Pointer : MonoBehaviour
             {
                 touchPoint.transform.position = hit.point;
                 playerPoint.transform.parent = touchPoint.transform;
+                PosCount++;
             }
 
             if (Input.GetMouseButton(0))
@@ -42,6 +43,7 @@ public class Pointer : MonoBehaviour
                 {
                     touchPoint.transform.position = hit.point;
                     WayPoint.Add(playerPoint.transform.position);
+                    PosCount++;
 
                 }
 
@@ -63,10 +65,11 @@ public class Pointer : MonoBehaviour
         if (pos.x > 1f) pos.x = 1f;
         if (pos.y < 0f) pos.y = 0f;
         if (pos.y > 1f) pos.y = 1f;
-        //pos.z = 0f;
 
         playerPoint.transform.position = Camera.main.ViewportToWorldPoint(pos);
 
+
+        playerPoint.transform.position = new Vector3(playerPoint.transform.position.x,0f,playerPoint.transform.position.z);
 
 
     }
