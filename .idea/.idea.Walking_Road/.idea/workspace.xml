@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9ec422-1249-499e-87be-c74c85ab5f54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking_Road/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/#Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/#Scripts/CarmeraManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/CarmeraManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b12ac0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b12ac0-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e88bf4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e88bf4-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/05/052f4aafb4253f24db9b0ec2bb242eb4" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/05/052f4aafb4253f24db9b0ec2bb242eb4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/19/197a19a42ddecaa408e8b4854dda5e7b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/19/197a19a42ddecaa408e8b4854dda5e7b.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4e/4ede139ae92991547823ae12c53fd444" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4e/4ede139ae92991547823ae12c53fd444" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/8b/8babcbdd49fcb9e4889f0984197d47f9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8b/8babcbdd49fcb9e4889f0984197d47f9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+            <state relative-caret-position="450">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <marker date="1552793297159" expanded="false" signature="6:176" ph="..." />
                 <marker date="1552793297159" expanded="true" signature="219:856" ph="{...}" />
@@ -47,33 +44,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="281">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <marker date="1552793229898" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552793229898" expanded="true" signature="116:1950" ph="{...}" />
-                <marker date="1552793229898" expanded="true" signature="362:470" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
-                <marker date="1552793229898" expanded="true" signature="493:1948" ph="{...}" />
-                <marker date="1552793229898" expanded="true" signature="684:1444" ph="{...}" />
-                <marker date="1552793229898" expanded="true" signature="799:983" ph="{...}" />
-                <marker date="1552793229898" expanded="true" signature="1025:1308" ph="{...}" />
-                <marker date="1552793229898" expanded="true" signature="1095:1293" ph="{...}" />
-                <marker date="1552793229898" expanded="true" signature="1352:1433" ph="{...}" />
+                <marker date="1553999696497" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553999696497" expanded="true" signature="116:1996" ph="{...}" />
+                <marker date="1553999696497" expanded="true" signature="362:470" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
+                <marker date="1553999696497" expanded="true" signature="493:1994" ph="{...}" />
+                <marker date="1553999696497" expanded="true" signature="684:1490" ph="{...}" />
+                <marker date="1553999696497" expanded="true" signature="799:983" ph="{...}" />
+                <marker date="1553999696497" expanded="true" signature="1025:1341" ph="{...}" />
+                <marker date="1553999696497" expanded="true" signature="1128:1326" ph="{...}" />
+                <marker date="1553999696497" expanded="true" signature="1385:1479" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/#Scripts/CarmeraManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
               <folding>
-                <marker date="1552795941750" expanded="false" signature="6:97" ph="..." />
-                <marker date="1552795941750" expanded="true" signature="142:426" ph="{...}" />
-                <marker date="1552795941750" expanded="true" signature="252:273" ph="{...}" />
-                <marker date="1552795941750" expanded="true" signature="336:424" ph="{...}" />
+                <marker date="1553995484844" expanded="false" signature="6:97" ph="..." />
+                <marker date="1553995484844" expanded="true" signature="142:445" ph="{...}" />
+                <marker date="1553995484844" expanded="true" signature="250:271" ph="{...}" />
+                <marker date="1553995484844" expanded="true" signature="334:443" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -98,9 +95,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" />
         <option value="$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/#Scripts/CarmeraManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/#Scripts/Pointer.cs" />
       </list>
     </option>
   </component>
@@ -110,8 +107,8 @@
     </ignored-facets>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="386" />
-    <option name="y" value="163" />
+    <option name="x" value="435" />
+    <option name="y" value="49" />
     <option name="width" value="974" />
     <option name="height" value="734" />
   </component>
@@ -120,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -145,7 +143,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -214,11 +211,13 @@
       <workItem from="1552668389279" duration="873000" />
       <workItem from="1552669866446" duration="2793000" />
       <workItem from="1552711061775" duration="8661000" />
+      <workItem from="1553955364541" duration="396000" />
+      <workItem from="1553993849355" duration="3127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51447000" />
+    <option name="totallyTimeSpent" value="54970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,10 +229,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="386" y="163" width="974" height="734" extended-state="0" />
+    <frame x="435" y="49" width="974" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22647703" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.110341154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -266,6 +265,40 @@
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110341154" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.47505423" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Unity" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -318,54 +351,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/TerrainControl.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/CarmeraManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+        <state relative-caret-position="210">
+          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
           <folding>
-            <marker date="1552793297159" expanded="false" signature="6:176" ph="..." />
-            <marker date="1552793297159" expanded="true" signature="219:856" ph="{...}" />
-            <marker date="1552793297159" expanded="true" signature="358:379" ph="{...}" />
-            <marker date="1552793297159" expanded="true" signature="437:854" ph="{...}" />
-            <marker date="1552793297159" expanded="true" signature="689:848" ph="{...}" />
+            <marker date="1553995484844" expanded="false" signature="6:97" ph="..." />
+            <marker date="1553995484844" expanded="true" signature="142:445" ph="{...}" />
+            <marker date="1553995484844" expanded="true" signature="250:271" ph="{...}" />
+            <marker date="1553995484844" expanded="true" signature="334:443" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/#Scripts/Pointer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="281">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <marker date="1552793229898" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552793229898" expanded="true" signature="116:1950" ph="{...}" />
-            <marker date="1552793229898" expanded="true" signature="362:470" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
-            <marker date="1552793229898" expanded="true" signature="493:1948" ph="{...}" />
-            <marker date="1552793229898" expanded="true" signature="684:1444" ph="{...}" />
-            <marker date="1552793229898" expanded="true" signature="799:983" ph="{...}" />
-            <marker date="1552793229898" expanded="true" signature="1025:1308" ph="{...}" />
-            <marker date="1552793229898" expanded="true" signature="1095:1293" ph="{...}" />
-            <marker date="1552793229898" expanded="true" signature="1352:1433" ph="{...}" />
+            <marker date="1553999696497" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553999696497" expanded="true" signature="116:1996" ph="{...}" />
+            <marker date="1553999696497" expanded="true" signature="362:470" ph="/* TouchPoint는 스크린을 눌렀을 때 그 해당 위치로 이동 ... */" />
+            <marker date="1553999696497" expanded="true" signature="493:1994" ph="{...}" />
+            <marker date="1553999696497" expanded="true" signature="684:1490" ph="{...}" />
+            <marker date="1553999696497" expanded="true" signature="799:983" ph="{...}" />
+            <marker date="1553999696497" expanded="true" signature="1025:1341" ph="{...}" />
+            <marker date="1553999696497" expanded="true" signature="1128:1326" ph="{...}" />
+            <marker date="1553999696497" expanded="true" signature="1385:1479" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/CarmeraManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/#Scripts/PlayerFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="450">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <marker date="1552795941750" expanded="false" signature="6:97" ph="..." />
-            <marker date="1552795941750" expanded="true" signature="142:426" ph="{...}" />
-            <marker date="1552795941750" expanded="true" signature="252:273" ph="{...}" />
-            <marker date="1552795941750" expanded="true" signature="336:424" ph="{...}" />
+            <marker date="1552793297159" expanded="false" signature="6:176" ph="..." />
+            <marker date="1552793297159" expanded="true" signature="219:856" ph="{...}" />
+            <marker date="1552793297159" expanded="true" signature="358:379" ph="{...}" />
+            <marker date="1552793297159" expanded="true" signature="437:854" ph="{...}" />
+            <marker date="1552793297159" expanded="true" signature="689:848" ph="{...}" />
           </folding>
         </state>
       </provider>

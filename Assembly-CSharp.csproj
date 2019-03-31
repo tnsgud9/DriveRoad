@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\#Scripts\CarmeraManager.cs" />
+    <Compile Include="Assets\#Scripts\MeshCreate.cs" />
     <Compile Include="Assets\#Scripts\PlayerFollow.cs" />
     <Compile Include="Assets\#Scripts\Pointer.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

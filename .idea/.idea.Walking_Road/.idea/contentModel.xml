@@ -10,6 +10,7 @@
       <e p="Assets" t="Include">
         <e p="#Scripts" t="Include">
           <e p="CarmeraManager.cs" t="Include" />
+          <e p="MeshCreate.cs" t="Include" />
           <e p="PlayerFollow.cs" t="Include" />
           <e p="Pointer.cs" t="Include" />
         </e>

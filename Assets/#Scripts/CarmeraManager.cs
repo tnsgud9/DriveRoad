@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class CarmeraManager : MonoBehaviour
 {
-    public static float Speed = 0.4f;
+    public static float Speed = 1f;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,7 +15,8 @@ public class CarmeraManager : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.Translate(Vector3.left * Speed *Time.deltaTime);
+        transform.Translate(Vector3.left * Speed *Time.deltaTime,Space.World);
+        
         
     }
 }

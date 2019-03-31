@@ -39,6 +39,7 @@ public class Pointer : MonoBehaviour
 
             if (Input.GetMouseButton(0))
             {
+                //레이어 검사후 좌표값 추가
                 if (hit.transform.name == "background")
                 {
                     touchPoint.transform.position = hit.point;
@@ -51,7 +52,7 @@ public class Pointer : MonoBehaviour
 
             if (Input.GetMouseButtonUp(0))
             {
-                playerPoint.transform.parent = null;
+                playerPoint.transform.parent = null; //부모 자식관계 해제
             }
 
         }
