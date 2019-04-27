@@ -17,7 +17,7 @@ public class Pointer : MonoBehaviour
         ChildPoint는 TouchPoint의 방향을 따라감 ray위치로 가진 않음   
     */
     
-    void Update()
+    void Update() 
     {
         
         
