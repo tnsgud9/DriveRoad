@@ -68,10 +68,9 @@ public class Pointer : MonoBehaviour
         if (pos.y > 1f) pos.y = 1f;
 
         playerPoint.transform.position = Camera.main.ViewportToWorldPoint(pos);
-
-
+        
+        // y 축 고정
         playerPoint.transform.position = new Vector3(playerPoint.transform.position.x,0f,playerPoint.transform.position.z);
-
 
     }
 }
