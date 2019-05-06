@@ -61,10 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\#Scripts\CarmeraManager.cs" />
-    <Compile Include="Assets\#Scripts\DynamicMesh.cs" />
+    <Compile Include="Assets\#Scripts\DataManager.cs" />
+    <Compile Include="Assets\#Scripts\GameManager.cs" />
     <Compile Include="Assets\#Scripts\MeshCreate.cs" />
     <Compile Include="Assets\#Scripts\Player.cs" />
     <Compile Include="Assets\#Scripts\Pointer.cs" />
+    <Compile Include="Assets\#Scripts\TerrainDynamicMesh.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/user/Documents/GitHub/Walking_Road/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
