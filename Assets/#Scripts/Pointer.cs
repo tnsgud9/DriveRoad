@@ -27,9 +27,7 @@ public class Pointer : MonoBehaviour
         if (Physics.Raycast(ray, out hit, 100f, 1 << 11))
         {
             //touchPoint.transform.position = hit.point;
-
-
-
+            
             if (Input.GetMouseButtonDown(0))
             {
                 touchPoint.transform.position = hit.point;
