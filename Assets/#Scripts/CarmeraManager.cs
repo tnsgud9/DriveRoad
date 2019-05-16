@@ -15,7 +15,7 @@ public class CarmeraManager : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.Translate(Vector3.left * Speed *Time.deltaTime,Space.World);
+        transform.Translate(Vector3.right * Speed *Time.deltaTime,Space.World);
         
         
     }

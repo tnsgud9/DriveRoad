@@ -39,7 +39,8 @@ public class Pointer : MonoBehaviour
             if (Input.GetMouseButton(0))
             {
                 //레이어 검사후 좌표값 추가
-                if (hit.transform.name == "Terrain" && (Input.GetAxis("Mouse X") != 0 || Input.GetAxis("Mouse Y") != 0)) //마우스 가만히 있으면 안움직임
+                //hit.transform.name == "Terrain" &&
+                if ( (Input.GetAxis("Mouse X") != 0 || Input.GetAxis("Mouse Y") != 0)) //마우스 가만히 있으면 안움직임
                 {
                     touchPoint.transform.position = hit.point;
                     WayPoint.Add(playerPoint.transform.position);

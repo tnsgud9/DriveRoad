@@ -16,7 +16,7 @@ TagManager:
   - PostProcessing
   - MousePointer
   - Player
-  - Background
+  - Input
   - Wall
   - 
   - 
