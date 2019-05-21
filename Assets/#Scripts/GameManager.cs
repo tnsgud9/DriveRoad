@@ -12,4 +12,24 @@ public class GameManager : MonoBehaviour
     public static bool Sound = true;
 
 
+    private void Start()
+    {
+
+    }
+
+    private void Update()
+    {
+        
+    }
+
+
+
+
+
+
+}
+
+class UI_Manager : MonoBehaviour
+{
+
 }

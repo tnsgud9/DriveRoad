@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
 
     void Start()
     {
-        _model = GameObject.Find("Model");
+        _model = GameObject.Find("PlayerModel");
     }
 
     void Update()
@@ -33,8 +33,6 @@ public class Player : MonoBehaviour
 
         if (transform.position == (Vector3)Pointer.WayPoint[_arraycount])
         {
-            //Debug.Log(_arraycount);
-
             _arraycount++;
             Pointer.WayPoint.RemoveAt(_arraycount - 1);
 
