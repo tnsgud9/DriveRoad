@@ -67,6 +67,7 @@
     <Compile Include="Assets\#Scripts\Player.cs" />
     <Compile Include="Assets\#Scripts\Pointer.cs" />
     <Compile Include="Assets\#Scripts\TerrainDynamicMesh.cs" />
+    <Compile Include="Assets\#Scripts\Wall.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/user/Documents/GitHub/Walking_Road/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
